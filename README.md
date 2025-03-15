@@ -1,17 +1,24 @@
 # Hi there, I'm Amarnath 👋  
+🚀 **Full Stack Java Developer** | 🔥 Passionate about Web Development  
+---
+💻 **Tech Stack:** Html, Css, Sass, Bootstrap, Js, React, Java, Firebase, MySQL  
 
-🚀 **Full Stack Developer** | 🔥 Passionate about Web Development  
-💻 **Tech Stack:** React, Java, Tailwind CSS, Firebase, MySQL  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+
+---
+
 📚 **Currently Learning:** Advanced Backend Technologies  
+
 🎯 **Goals:** Landing a Developer Job & Building a Startup  
 
 ---
 
 ## 🛠 My Projects  
 - 🎶🎸🎤🎧🎹 Play AVMusic player [AVMusic Player](https://amar0th05.github.io/AVMusic/)
-- 🔗 [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
-- 🔥 [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
-- 📆 [Tamil Calendar Notification System](https://github.com/Amar0th05/Tamil-Calendar-Notifier)  
+- 🔗 QR Code-Based Restaurant Ordering System [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
+- 🔥 React ChatX App [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
+- 📆 Tamil Notigy Calendar [Tamil Calendar Notification System](https://github.com/Amar0th05/Tamil-Calendar-Notifier)  
 
 ---
 
