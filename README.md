@@ -8,9 +8,9 @@
 ---
 
 ## 🛠 My Projects  
-- 🔗 [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05)  
-- 🔥 [Firebase Chat App](https://github.com/Amar0th05)  
-- 📆 [Tamil Calendar Notification System](https://github.com/Amar0th05)  
+- 🔗 [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
+- 🔥 [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
+- 📆 [Tamil Calendar Notification System](https://github.com/Amar0th05/Tamil-Calendar-Notifier)  
 
 ---
 
@@ -27,3 +27,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://your-portfolio.com)  
 
 ---
+
+### **3. Commit the Changes**
+- Click **"Commit changes"**  
+- Go to your **GitHub profile** ([github.com/Amar0th05](https://github.com/Amar0th05))  
+- 🎉 Your profile README should now be visible!  
+
+Let me know if you need any tweaks! 🚀😊
