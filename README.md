@@ -8,6 +8,7 @@
 ---
 
 ## 🛠 My Projects  
+- 🎶🎸🎤🎧🎹 Play AVMusic player [AVMusic Player](https://github.com/Amar0th05/Restaurant-QR-Ordering)
 - 🔗 [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
 - 🔥 [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
 - 📆 [Tamil Calendar Notification System](https://github.com/Amar0th05/Tamil-Calendar-Notifier)  
