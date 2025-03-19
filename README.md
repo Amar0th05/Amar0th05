@@ -19,7 +19,7 @@
 - 🔗 QR Code-Based Restaurant Ordering System [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
 - 🔥 React ChatX App [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
 - 📆 Tamil Notigy Calendar [Tamil Calendar Notification System](https://github.com/Amar0th05/Tamil-Calendar-Notifier)
-- ⛅ Weather Application [Weather Application](https://github.com/Amar0th05/Weather-Application)
+- ⛅ Weather Application [Weather Application](https://amar0th05.github.io/Weather-Application/)
 
 ---
 
