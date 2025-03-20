@@ -1,14 +1,14 @@
 # Hi there, I'm Amarnath 👋  
 🚀 **Full Stack Java Developer** | 🔥 Passionate about Web Development  
 ---
-💻 **Tech Stack:** Html, Css, Sass, Bootstrap, Js, React, Java, Firebase, MySQL  
+💻 **Tech Stack:** Html, Css, Bootstrap, Tailwind css,Js, React, Java, Firebase,Jdbc, Hibernate ,Servlet,MySQL  
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
 ---
 
-📚 **Currently Learning:** Advanced Backend Technologies  
+📚 **Currently Learning:** Advanced Backend Technologie Spring boot 
 
 🎯 **Goals:** Landing a Developer Job & Building a Startup  
 
