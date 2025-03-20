@@ -21,7 +21,7 @@
 - 🔥 React ChatX App [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
 - 📆 Styled Conferences [Styled Conference](https://styledconferences.vercel.app/)
 - ⛅ Weather Application [Weather Application](https://amar0th05.github.io/Weather-Application/)
-- 📆 To-Do-List [ToDoList](https://todolists-xi.vercel.app/)
+- 📆 To-Do-List [ToDoList](https://todo-lists-eight.vercel.app/)
 
 ---
 
