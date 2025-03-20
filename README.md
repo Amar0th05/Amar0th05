@@ -34,8 +34,8 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]('')  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://portfolio-kappa-lac-21.vercel.app/)  
 
 ---
 
