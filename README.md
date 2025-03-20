@@ -19,8 +19,9 @@
 - 🔗 My Portfolio website [My Portfolio website](https://portfolio-kappa-lac-21.vercel.app/)
 - 🔗 QR Code-Based Restaurant Ordering System [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
 - 🔥 React ChatX App [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
-- 📆 Tamil Notigy Calendar [Tamil Calendar Notification System](https://github.com/Amar0th05/Tamil-Calendar-Notifier)
+- 📆 Styled Conferences [Styled Conference](https://styledconferences.vercel.app/)
 - ⛅ Weather Application [Weather Application](https://amar0th05.github.io/Weather-Application/)
+- 📆 To-Do-List [ToDoList](https://todolists-xi.vercel.app/)
 
 ---
 
