@@ -17,11 +17,11 @@
 ## 🛠 My Projects  
 - 🎶🎸🎤🎧🎹 Play AVMusic player [AVMusic Player](https://amar0th05.github.io/AVMusic/)
 - 🔗 My Portfolio website [My Portfolio website](https://portfolio-kappa-lac-21.vercel.app/)
-- 🔗 QR Code-Based Restaurant Ordering System [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
-- 🔥 React ChatX App [Firebase Chat App](https://github.com/Amar0th05/Firebase-Chat-App)  
+- 🔥 React ChatX App [Firebase Chat App](https://react-chat-x.vercel.app/)  
 - 📆 Styled Conferences [Styled Conference](https://styledconferences.vercel.app/)
 - ⛅ Weather Application [Weather Application](https://amar0th05.github.io/Weather-Application/)
 - 📆 To-Do-List [ToDoList](https://todo-lists-eight.vercel.app/)
+- 🔗 QR Code-Based Restaurant Ordering System [QR Code-Based Restaurant Ordering System](https://github.com/Amar0th05/Restaurant-QR-Ordering)  
 
 ---
 
